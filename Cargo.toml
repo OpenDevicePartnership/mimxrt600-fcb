@@ -1,11 +1,11 @@
 [package]
 name = "mimxrt600-fcb"
-version = "0.2.0"
+version = "0.2.1"
 authors = [ "Felipe Balbi <felipe@balbi.sh>" ]
 edition = "2021"
 license = "MIT"
 description = "Flash Configuration Block for MIMXRT600 devices"
-repository = "https://github.com/felipebalbi/mimxrt600-fcb"
+repository = "https://github.com/OpenDevicePartnership/mimxrt600-fcb"
 readme = "README.md"
 keywords = [ "rt6", "mimxrt", "mimxrt6", "no_std", "embedded" ]
 categories = [ "embedded", "no-std" ]
