@@ -10,7 +10,7 @@ checksum = "c821a6e124197eb56d907ccc2188eab1038fb919c914f47976e64dd8dbc855d1"
 
 [[package]]
 name = "mimxrt600-fcb"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
  "bitfield",
 ]
